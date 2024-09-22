@@ -1,9 +1,9 @@
 {
-    "BootstrapperVersion": "1.19",
+    "BootstrapperVersion": "1",
     "SupportedClient": "version-43ad1853ad91427d",
     "SoftwareVersion": "3",
-    "BootstrapperUrl": "https://github.com/typeshi12/end/releases/download/re/Bootstrapper.exe",
-    "SoftwareUrl":"https://github.com/typeshi12/end/releases/download/re/Solara.Dir.zip",
+    "BootstrapperUrl": "https://github.com/ProjectFyde/LazerusBootstrapper/blob/main/Lazerus Bootstrapper.exe",
+    "SoftwareUrl":"https://github.com/ProjectFyde/LazerusBootstrapper/blob/main/Release.zip",
     "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live",
     "ClientHash":"b8883153e6eebacb1dc40e92c2cf4f47fbd436824d934cb30f9ab70da991d2f8",
     "Changelog":"[+] More UNC"
